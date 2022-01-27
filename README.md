@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nvegs
+- 👋 Hi, I’m @nvegs
 - 👀 I’m interested in Programming, Sports, Anime, Cartoon, Games
 - 🌱 I’m currently learning Vue.js, React.js, Tailwind.css, Node.js
 - 💞️ I’m looking to collaborate on ...
