@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nvegs
 - 👀 I’m interested in Programming, Sports, Anime, Cartoon, Games
-- 🌱 I’m currently learning Vue.js, React.js, Tailwind.css, Node.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a frontend Engineer with React.js, Next.js 
+- 💞️ I’m looking to collaborate on project 
 - 📫 How to reach me telegram (NVEGS), Whatapps (07069541209), facebook (Victory Nnabugwu), linkedin (Victory Nnabugwu)
 
 <!---
